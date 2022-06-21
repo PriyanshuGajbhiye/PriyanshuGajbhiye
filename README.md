@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyanshuGajbhiye
 - 👀 I’m interested in Web development and coding.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind CSS, JS, C, C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind CSS, JS, C, C++.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me ...
 
 <!---
